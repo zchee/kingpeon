@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"text/template"
 
-	kingpin "gopkg.in/alecthomas/kingpin.v2"
+	kingpin "github.com/alecthomas/kingpin/v2"
 )
 
 // type so we can mock out how scripts are executed for testing

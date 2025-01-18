@@ -6,7 +6,7 @@ import (
 	"text/template"
 
 	"github.com/stretchr/testify/assert"
-	kingpin "gopkg.in/alecthomas/kingpin.v2"
+	kingpin "github.com/alecthomas/kingpin/v2"
 	yaml "gopkg.in/yaml.v2"
 )
 
